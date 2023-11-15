@@ -1,0 +1,11 @@
+[ {
+  "uid" : "b4267d69777bd910",
+  "name" : "validar nome da unidade",
+  "time" : {
+    "start" : 1624295410336,
+    "stop" : 1624295420135,
+    "duration" : 9799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

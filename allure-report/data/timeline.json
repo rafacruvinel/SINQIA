@@ -1,0 +1,17 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "validar nome da unidade",
+    "uid" : "b4267d69777bd910",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1624295410336,
+      "stop" : 1624295420135,
+      "duration" : 9799
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}
